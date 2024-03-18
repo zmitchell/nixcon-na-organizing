@@ -4,3 +4,9 @@ language = "en"
 multilingual = false
 src = "src"
 title = "NixCon NA Organizing"
+
+[output.html]
+git-repository-url = "https://github.com/zmitchell/nixcon-na-organizing"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/zmitchell/nixcon-na-organizing/edit/master/{path}"
+site-url = "/example-book/"
