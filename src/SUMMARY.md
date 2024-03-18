@@ -4,6 +4,10 @@
 
 - [Committee](committee/main.md)
 - [Program](program/main.md)
+    - [Talks](program/talks.md)
+    - [Workshops](program/workshops.md)
+    - [Lightning talks](program/lightning-talks.md)
+    - [Unconf](program/unconf.md)
 - [AV](av/main.md)
 - [Branding](branding/main.md)
 - [Comms](comms/main.md)
