@@ -9,6 +9,7 @@
     - [Lightning talks](program/lightning-talks.md)
     - [Unconf](program/unconf.md)
 - [AV](av/main.md)
+- [Proctoring](proctor/main.md)
 - [Branding](branding/main.md)
 - [Comms](comms/main.md)
 - [Data](data/main.md)
